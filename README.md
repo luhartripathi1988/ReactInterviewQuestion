@@ -13,7 +13,7 @@ A2. React HOOKS is introduced in react 16.8 version that's make more powerfull a
     
     EX- const [count, setCount] = useState(0);
   
-  (ii) UseEffect - It's handle the react lift cycle mathod Mount, update and unmount
+  (ii) useEffect - It's handle the react lift cycle mathod Mount, update and unmount
     
     Ex-  useEffect(()=>{
       Arrgument
