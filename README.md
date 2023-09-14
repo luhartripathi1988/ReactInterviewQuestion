@@ -71,7 +71,7 @@ Performance Optimization: By minimizing direct DOM manipulation and batching upd
 
 Cross-Browser Compatibility: The Virtual DOM allows React to handle browser-specific quirks and inconsistencies, providing a consistent development experience.
 
-Easier Development: Developers can work with a declarative, component-based approach, focusing on describing what the UI should look like rather than worrying about low-level DOM operations.
+Easier Development: Developers can work with a declarative, component-based approach, focusing on describing what the UI should look like rather than worrying about low-level DOM operations. 
 
 In summary, the Virtual DOM is a key feature of React that improves performance by minimizing direct DOM manipulation, reducing the number of updates to the actual DOM, and enabling efficient updates through a process of reconciliation. It's a critical part of what makes React a highly efficient and developer-friendly library for building user interfaces.
   
